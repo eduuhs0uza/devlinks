@@ -9,3 +9,7 @@ function toggleMode() {
   // }
 
 }
+
+function baixarCurriculo() {
+    document.getElementById('downloadBtn').click();
+}
